@@ -9,6 +9,16 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddDbContext<AppDbContext>(options => options.UseMySQL(builder.Configuration.GetConnectionString("CnnStr")!));
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowFrontend",
+        policy =>
+        {
+            policy.WithOrigins("http://44.211.67.150:8080") // Cambia por la URL de tu frontend
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
+        });
+});
 
 
 builder.Services.AddControllers().ConfigureApiBehaviorOptions(options =>
@@ -33,7 +43,7 @@ builder.Services.AddMapping();
 builder.Services.AddValidators();
 
 var app = builder.Build();
-
+app.UseCors("AllowFrontend");
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

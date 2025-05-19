@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
     "\\.github\\workflows",
     "\\MoneyBankService",
-    "\\MoneyBankService\\MoneyBankService.Application\\Dtos"
+    "\\MoneyBankService\\MoneyBankService.Api",
+    "\\MoneyBankService\\MoneyBankService.Frontend"
   ],
-  "SelectedNode": "\\MoneyBankService\\MoneyBankService.Api",
+  "SelectedNode": "\\Dockerfile",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,1 @@
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Api\wwwroot\web.config

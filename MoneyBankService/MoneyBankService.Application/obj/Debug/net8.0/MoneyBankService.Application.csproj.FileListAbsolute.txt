@@ -1,0 +1,16 @@
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\bin\Debug\net8.0\MoneyBankService.Application.deps.json
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\bin\Debug\net8.0\MoneyBankService.Application.dll
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\bin\Debug\net8.0\MoneyBankService.Application.pdb
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\bin\Debug\net8.0\MoneyBankService.Domain.dll
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\bin\Debug\net8.0\MoneyBankService.Domain.pdb
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\obj\Debug\net8.0\MoneyBankService.Application.csproj.AssemblyReference.cache
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\obj\Debug\net8.0\MoneyBankService.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\obj\Debug\net8.0\MoneyBankService.Application.AssemblyInfoInputs.cache
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\obj\Debug\net8.0\MoneyBankService.Application.AssemblyInfo.cs
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\obj\Debug\net8.0\MoneyBankService.Application.csproj.CoreCompileInputs.cache
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\obj\Debug\net8.0\MoneyBankService.Application.sourcelink.json
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\obj\Debug\net8.0\MoneyBan.8FEA3CD9.Up2Date
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\obj\Debug\net8.0\MoneyBankService.Application.dll
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\obj\Debug\net8.0\refint\MoneyBankService.Application.dll
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\obj\Debug\net8.0\MoneyBankService.Application.pdb
+E:\SEXTO SEMESTRE\AWS-MoneyBankService\MoneyBankService\MoneyBankService.Application\obj\Debug\net8.0\ref\MoneyBankService.Application.dll

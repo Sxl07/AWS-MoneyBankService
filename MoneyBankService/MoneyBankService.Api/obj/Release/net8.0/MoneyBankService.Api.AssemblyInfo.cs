@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoneyBankService.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2ad2e15f4e8bdb1be2c0471095701c3516bf558")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b96140ec4988eba8e9569298d0fc3dd63358297f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoneyBankService.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoneyBankService.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows"
+    "\\.github\\workflows",
+    "\\MoneyBankService",
+    "\\MoneyBankService\\MoneyBankService.Application\\Dtos"
   ],
-  "SelectedNode": "\\.github\\workflows\\deploy.yml",
+  "SelectedNode": "\\MoneyBankService\\MoneyBankService.Api",
   "PreviewInSolutionExplorer": false
 }

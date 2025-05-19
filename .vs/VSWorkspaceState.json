@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MoneyBankService",
     "\\MoneyBankService\\MoneyBankService.Api",
     "\\MoneyBankService\\MoneyBankService.Api\\Controllers"
   ],
-  "SelectedNode": "\\MoneyBankService\\MoneyBankService.Api\\Program.cs",
+  "SelectedNode": "\\MoneyBankService",
   "PreviewInSolutionExplorer": false
 }

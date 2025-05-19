@@ -4,9 +4,8 @@
     "\\.github",
     "\\.github\\workflows",
     "\\MoneyBankService",
-    "\\MoneyBankService\\MoneyBankService.Api",
-    "\\MoneyBankService\\MoneyBankService.Frontend"
+    "\\MoneyBankService\\MoneyBankService.Api"
   ],
-  "SelectedNode": "\\Dockerfile",
+  "SelectedNode": "\\MoneyBankService\\MoneyBankService.Api\\appsettings.Development.json",
   "PreviewInSolutionExplorer": false
 }

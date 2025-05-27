@@ -3743,23 +3743,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {},
+    "C:\\Users\\Sebastian\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\Documents\\GitHub\\AWS-MoneyBankService\\MoneyBankService\\MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj",
+      "projectUniqueName": "E:\\SEXTO SEMESTRE\\AWS-MoneyBankService\\MoneyBankService\\MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj",
       "projectName": "MoneyBankService.Infrastructure",
-      "projectPath": "C:\\Users\\ACER\\Documents\\GitHub\\AWS-MoneyBankService\\MoneyBankService\\MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\Documents\\GitHub\\AWS-MoneyBankService\\MoneyBankService\\MoneyBankService.Infrastructure\\obj\\",
+      "projectPath": "E:\\SEXTO SEMESTRE\\AWS-MoneyBankService\\MoneyBankService\\MoneyBankService.Infrastructure\\MoneyBankService.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
+      "outputPath": "E:\\SEXTO SEMESTRE\\AWS-MoneyBankService\\MoneyBankService\\MoneyBankService.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3774,11 +3774,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ACER\\Documents\\GitHub\\AWS-MoneyBankService\\MoneyBankService\\MoneyBankService.Application\\MoneyBankService.Application.csproj": {
-              "projectPath": "C:\\Users\\ACER\\Documents\\GitHub\\AWS-MoneyBankService\\MoneyBankService\\MoneyBankService.Application\\MoneyBankService.Application.csproj"
+            "E:\\SEXTO SEMESTRE\\AWS-MoneyBankService\\MoneyBankService\\MoneyBankService.Application\\MoneyBankService.Application.csproj": {
+              "projectPath": "E:\\SEXTO SEMESTRE\\AWS-MoneyBankService\\MoneyBankService\\MoneyBankService.Application\\MoneyBankService.Application.csproj"
             },
-            "C:\\Users\\ACER\\Documents\\GitHub\\AWS-MoneyBankService\\MoneyBankService\\MoneyBankService.Domain\\MoneyBankService.Domain.csproj": {
-              "projectPath": "C:\\Users\\ACER\\Documents\\GitHub\\AWS-MoneyBankService\\MoneyBankService\\MoneyBankService.Domain\\MoneyBankService.Domain.csproj"
+            "E:\\SEXTO SEMESTRE\\AWS-MoneyBankService\\MoneyBankService\\MoneyBankService.Domain\\MoneyBankService.Domain.csproj": {
+              "projectPath": "E:\\SEXTO SEMESTRE\\AWS-MoneyBankService\\MoneyBankService\\MoneyBankService.Domain\\MoneyBankService.Domain.csproj"
             }
           }
         }
@@ -3836,7 +3836,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

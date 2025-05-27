@@ -14,7 +14,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowFrontend",
         policy =>
         {
-            policy.WithOrigins("http://44.211.67.150:8080") // Cambia por la URL de tu frontend
+            policy.WithOrigins("http://54.165.110.150:8080") // Cambia por la URL de tu frontend
                   .AllowAnyHeader()
                   .AllowAnyMethod();
         });
